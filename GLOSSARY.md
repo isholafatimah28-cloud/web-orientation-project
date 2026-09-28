@@ -6,3 +6,8 @@
 -HTML is the building: the walls, rooms and signboard. It says what is on the page (a headline, a paragraph, a button).
 -CSS is the paint and decoration: colours, sizes and where things sit.
 -JavaScript is the electricity: what happens when someone presses a switch, like a form that checks your entry.
+- Tag: a word in angle brackets, like <h1>, that tells the browser what something is
+- Opening tag and closing tag: the opening tag starts something, like <p>, and the closing tag, like </p>, ends it
+- Heading (h1 to h6): h1 is the biggest and most important heading, h6 is the smallest
+- Paragraph (p): normal reading-size text
+- index.html: the standard name for a website's first page
